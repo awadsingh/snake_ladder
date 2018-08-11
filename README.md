@@ -26,7 +26,7 @@ square  (start , win ,snake ,ladder will use in dld)
 player.
 piece.
 
-Q2 . How to indetiied relation in classes.
+Q2 . How to indetified relation in classes.
 
 Ans : go through use case and find relation.
 
