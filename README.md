@@ -1,4 +1,20 @@
 # snake_ladder
+
+before going to attempt any design realted quaetion first we have write
+use case story.
+use case story always help to identified class an their realtionship.
+
+------------------
+use case
+------------------
+1. game have square baord
+2. board have number of square
+3. square is either snake are ladder type
+4. all player are added to start square.
+5. player can be human or computer
+6. when any player reach to last/win square game over.
+
+
 ------------------
 snake_ladder_hld
 ------------------
