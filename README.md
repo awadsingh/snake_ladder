@@ -36,20 +36,20 @@ two nouns are mentined "game" & "board".
   win square.
 
 identified classes.
-game
-board
-square (start , win ,snake ,ladder will use in dld)
-player.
-piece.
+1. game
+2. board
+3. square (start , win ,snake ,ladder will use in dld)
+4. player.
+5. piece.
 
 Q2 . How to indetified relation in classes.
 
  Ans : go through use case and find relation.
 
- game have board and player (game have board pointer and player list).
- square have no of square (square class have list or array of square).
- player have piece (each player have piece pointer).
- class and realation shown in hld diagram.
+ 1. game have board and player (game have board pointer and player list).
+ 2. square have no of square (square class have list or array of square).
+ 3. player have piece (each player have piece pointer).
+ 4. class and realation shown in hld diagram.
 
 --------------------------------
 dld coming soon
